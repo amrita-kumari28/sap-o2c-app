@@ -26,5 +26,25 @@ This project implements a complete Order-to-Cash (O2C) business cycle using SAP 
 ## ▶️ How to Run
 
 1. Install dependencies:
-```bash
+```bash```
 npm install
+2. Run the project:
+cds watch
+3. Open in browser:
+http://localhost:4004
+
+---
+
+## 📌 Project Structure
+
+o2c-app/
+     ├── db/
+     ├── srv/
+     ├── app/
+     ├── package.json
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates a real-world business workflow using SAP CAP and provides an efficient solution for managing the Order-to-Cash cycle.
