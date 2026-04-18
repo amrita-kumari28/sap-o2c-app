@@ -1,20 +1,30 @@
-# Order-to-Cash (O2C) Application
+# Order-to-Cash (O2C) Application using SAP CAP
 
-## Overview
-This project implements an O2C cycle using SAP CAP.
+## 📌 Overview
+This project implements a complete Order-to-Cash (O2C) business cycle using SAP Cloud Application Programming Model (CAP). It includes customer management, order processing, and invoice generation in a single integrated system.
 
-## Features
-- Customer Management
-- Order Creation
-- Invoice Generation
+---
+
+## 🚀 Features
+- Customer Management (Add, View, Update, Delete)
+- Order Creation with Multiple Items
+- Automatic Invoice Generation
 - GST Calculation (18%)
-- Dashboard
+- Order & Invoice Status Tracking
+- Dashboard with Business Insights
 
-## Tech Stack
-- SAP CAP (Node.js)
-- SQLite
-- HTML, CSS, JavaScript
+---
 
-## Run Project
+## 🛠️ Technology Stack
+- Backend: SAP CAP (Node.js)
+- Database: SQLite
+- Frontend: HTML, CSS, JavaScript
+- Protocol: OData V4
+
+---
+
+## ▶️ How to Run
+
+1. Install dependencies:
 ```bash
-cds watch
+npm install
