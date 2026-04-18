@@ -1,0 +1,33 @@
+{
+  "name": "o2c-app",
+  "version": "1.0.0",
+  "description": "Order-to-Cash Application - Indian Market",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^7",
+    "express": "^4",
+    "sqlite3": "^5"
+  },
+  "devDependencies": {
+    "@sap/cds-dk": "^7"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch": "cds watch"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "credentials": {
+          "database": ":memory:"
+        }
+      }
+    },
+    "features": {
+      "serve_on_root": true
+    }
+  }
+}

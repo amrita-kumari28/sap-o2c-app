@@ -1,0 +1,9 @@
+ID,name,email,phone,city,gstin,creditLimit
+"c1000001-0000-0000-0000-000000000001","Sharma Enterprises Pvt Ltd","contact@sharmaent.in","9811234567","New Delhi","07AABCS1429B1ZP",1000000
+"c1000001-0000-0000-0000-000000000002","Mumbai Trading Co","info@mumtrading.com","9922345678","Mumbai","27AAACM2986Q1ZP",750000
+"c1000001-0000-0000-0000-000000000003","Kolkata Goods House","kg@kolkatagoods.in","9033456789","Kolkata","19AABCK3876R1ZP",500000
+"c1000001-0000-0000-0000-000000000004","Bangalore Tech Supplies","bts@bangtech.in","9144567890","Bengaluru","29AADCB4562M1ZP",800000
+"c1000001-0000-0000-0000-000000000005","Hyderabad Traders","ht@hydtrade.in","9255678901","Hyderabad","36AABCH5127N1ZP",600000
+"c1000001-0000-0000-0000-000000000006","Ahmedabad Merchants Ltd","aml@amdmerch.in","9366789012","Ahmedabad","24AAACA6219P1ZP",900000
+"c1000001-0000-0000-0000-000000000007","Chennai Distributors","cd@chenndist.in","9477890123","Chennai","33AABCC7348Q1ZP",450000
+"c1000001-0000-0000-0000-000000000008","Pune Business Hub","pbh@punebiz.in","9588901234","Pune","27AAABP8456R1ZP",700000

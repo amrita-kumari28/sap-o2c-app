@@ -1,0 +1,23 @@
+{
+  "requires": {
+    "db": {
+      "kind": "sqlite",
+      "credentials": {
+        "database": ":memory:"
+      }
+    }
+  },
+  "server": {
+    "port": 4004
+  },
+  "[development]": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "credentials": {
+          "database": ":memory:"
+        }
+      }
+    }
+  }
+}
